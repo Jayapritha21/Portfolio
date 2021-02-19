@@ -313,7 +313,7 @@ footer{
 
 
 .projects{
-height:350%;
+height:300%;
 padding-top:5px;
 background: #FF0099 no-repeat center fixed;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
@@ -354,11 +354,16 @@ font-size:18px;
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.footer{
+
+ .contact{
+      background: #FF0099 no-repeat center fixed;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+ 
+ footer{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background: #FF0099 no-repeat center fixed;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 }
