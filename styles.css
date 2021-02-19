@@ -274,13 +274,16 @@ footer{
 
 @media all and (max-width: 670px) {
  
+.header{
+  width:100%;
  
+ }
   
 #navbar{
     
   height:50px;
   padding:8px;
-  
+   
 }
 
 .links-top{
