@@ -288,10 +288,11 @@ footer{
   }
 
   .profile-pic{
-     display:none;
-    /* height:30%;
-    width:40%;
-    */
+    
+    height:30%;
+    width:100%;
+    
+    
   }
   
   .welcome-section{
