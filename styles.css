@@ -272,14 +272,9 @@ footer{
 @media all and (max-width: 670px) {
  
 .links-top{
-  padding-right: 30px;
+  padding-right: 50px;
   font-size:30px;
 }
-
-#nav{
-  margin-right: -30px;
-}
-
 
 .profile-pic{
   height:200px;
