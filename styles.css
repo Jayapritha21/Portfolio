@@ -279,14 +279,14 @@ footer{
 #navbar{
     
   height:50px;
-  padding:10px;
+  padding:8px;
   
 }
 
 .links-top{
   
   font-size:25px;
-  padding-right:40px;
+  padding-right:20px;
   
 }
 
@@ -346,7 +346,7 @@ margin-bottom:20px;
 
 .description h3{
  font-size: 35px;
- color:white;
+ color: aqua;
 }
 
 
@@ -357,11 +357,14 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
 
 
  .contact{
-      color:white;
+      
       background: #FF0099 no-repeat center fixed;  /* fallback for old browsers */
       background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
       background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
+ .contact h1{
+  color: aqua; 
+ }
  
  footer{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
