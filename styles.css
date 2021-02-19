@@ -286,7 +286,7 @@ footer{
 .links-top{
   
   font-size:25px;
-  padding-right:20px;
+  padding-left:10px;
   
 }
 
@@ -310,7 +310,6 @@ footer{
   font-size:60px;
 
 }
-
 
 .projects{
 height:300%;
@@ -347,12 +346,14 @@ margin-bottom:20px;
 .description h3{
  font-size: 35px;
  color: aqua;
+ text-shadow: 1px 2px 2px black;
 }
 
 
 .description p,.description li{
 font-size:18px;
 font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-weight:bold;
 }
 
 
@@ -364,10 +365,12 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
   }
  .contact h1{
   color: aqua; 
+  text-shadow: 1px 2px 2px black;
  }
  
  footer{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:bold;
 
 }
 
