@@ -155,8 +155,6 @@ background: #8A2387;
 background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 padding-top:10px;
-
-
 }
 
 .container{
@@ -267,12 +265,12 @@ footer{
 
 
 
-/*  Responsive web design for mobile  */
+/*  Responsive web design for mobile for max width  */
 
 @media all and (max-width: 670px) {
  
 .links-top{
-  padding-right: 50px;
+  
   font-size:30px;
 }
 
