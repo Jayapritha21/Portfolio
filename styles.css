@@ -270,7 +270,7 @@ footer{
 @media all and (max-width: 670px) {
  
 .links-top{
-  
+  padding-right:10px;
   font-size:30px;
 }
 
